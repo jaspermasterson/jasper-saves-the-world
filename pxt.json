@@ -1,0 +1,21 @@
+{
+    "name": "jasper saves the world",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "color-coded-tilemap": "*",
+        "controller": "*",
+        "storyboard": "*",
+        "darts": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
